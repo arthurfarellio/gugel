@@ -1,0 +1,15 @@
+input.width-input {
+    width: 50% !important;
+    height: 100px
+}
+
+.button {
+    height: 100px !important;
+    width: 100px;
+    margin-left: 50px
+}
+
+.imgfluid {
+    height: 300px;
+    width: 200px !important
+}
